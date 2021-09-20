@@ -1,0 +1,30 @@
+[
+	{
+		"categoryName": "Business",
+		"categoryCode": "business"
+	},
+	{
+		"categoryName": "entertainment",
+		"categoryCode": "Entertainment"
+	},
+	{
+		"categoryName": "general",
+		"categoryCode": "General"
+	},
+	{
+		"categoryName": "Health",
+		"categoryCode": "health"
+	},
+	{
+		"categoryName": "Science",
+		"categoryCode": "science"
+	},
+	{
+		"categoryName": "Sports",
+		"categoryCode": "sports"
+	},
+	{
+		"categoryName": "Technology",
+		"categoryCode": "technology"
+	}
+]

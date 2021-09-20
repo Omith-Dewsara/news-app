@@ -1,0 +1,218 @@
+[
+	{
+		"countryName": "Argentina",
+		"countryCode": "ar"
+	},
+	{
+		"countryName": "Greece",
+		"countryCode": "gr"
+	},
+	{
+		"countryName": "Netherlands",
+		"countryCode": "nl"
+	},
+	{
+		"countryName": "South Africa",
+		"countryCode": "za"
+	},
+	{
+		"countryName": "Australia",
+		"countryCode": "au"
+	},
+	{
+		"countryName": "Hong Kong",
+		"countryCode": "hk"
+	},
+	{
+		"countryName": "New Zealand",
+		"countryCode": "nz"
+	},
+	{
+		"countryName": "South Korea",
+		"countryCode": "kr"
+	},
+	{
+		"countryName": "Austria",
+		"countryCode": "at"
+	},
+	{
+		"countryName": "Hungary",
+		"countryCode": "hu"
+	},
+	{
+		"countryName": "Nigeria",
+		"countryCode": "ng"
+	},
+	{
+		"countryName": "Sweden",
+		"countryCode": "se"
+	},
+	{
+		"countryName": "Belgium",
+		"countryCode": "be"
+	},
+	{
+		"countryName": "India",
+		"countryCode": "in"
+	},
+	{
+		"countryName": "Norway",
+		"countryCode": "no"
+	},
+	{
+		"countryName": "Switzerland",
+		"countryCode": "ch"
+	},
+	{
+		"countryName": "Brazil",
+		"countryCode": "br"
+	},
+	{
+		"countryName": "Indonesia",
+		"countryCode": "id"
+	},
+	{
+		"countryName": "Philippines",
+		"countryCode": "ph"
+	},
+	{
+		"countryName": "Taiwan",
+		"countryCode": "tw"
+	},
+	{
+		"countryName": "Bulgaria",
+		"countryCode": "bg"
+	},
+	{
+		"countryName": "Ireland",
+		"countryCode": "ie"
+	},
+	{
+		"countryName": "Poland",
+		"countryCode": "pl"
+	},
+	{
+		"countryName": "Thailand",
+		"countryCode": "th"
+	},
+	{
+		"countryName": "Canada",
+		"countryCode": "ca"
+	},
+	{
+		"countryName": "Israel",
+		"countryCode": "il"
+	},
+	{
+		"countryName": "Portugal",
+		"countryCode": "pt"
+	},
+	{
+		"countryName": "Turkey",
+		"countryCode": "tr"
+	},
+	{
+		"countryName": "China",
+		"countryCode": "cn"
+	},
+	{
+		"countryName": "Italy",
+		"countryCode": "it"
+	},
+	{
+		"countryName": "Romania",
+		"countryCode": "ro"
+	},
+	{
+		"countryName": "UAE",
+		"countryCode": "ae"
+	},
+	{
+		"countryName": "Colombia",
+		"countryCode": "co"
+	},
+	{
+		"countryName": "Japan",
+		"countryCode": "jp"
+	},
+	{
+		"countryName": "Russia",
+		"countryCode": "ru"
+	},
+	{
+		"countryName": "Ukraine",
+		"countryCode": "ua"
+	},
+	{
+		"countryName": "Cuba",
+		"countryCode": "cu"
+	},
+	{
+		"countryName": "Latvia",
+		"countryCode": "lv"
+	},
+	{
+		"countryName": "Saudi Arabia",
+		"countryCode": "sa"
+	},
+	{
+		"countryName": "United Kingdom",
+		"countryCode": "gb"
+	},
+	{
+		"countryName": "Czech Republic",
+		"countryCode": "cz"
+	},
+	{
+		"countryName": "Lithuania",
+		"countryCode": "lt"
+	},
+	{
+		"countryName": "Serbia",
+		"countryCode": "rs"
+	},
+	{
+		"countryName": "United States",
+		"countryCode": "us"
+	},
+	{
+		"countryName": "Egypt",
+		"countryCode": "eg"
+	},
+	{
+		"countryName": "Malaysia",
+		"countryCode": "my"
+	},
+	{
+		"countryName": "Singapore",
+		"countryCode": "sg"
+	},
+	{
+		"countryName": "Venuzuela",
+		"countryCode": "ve"
+	},
+	{
+		"countryName": "France",
+		"countryCode": "fr"
+	},
+	{
+		"countryName": "Mexico",
+		"countryCode": "mx"
+	},
+	{
+		"countryName": "Slovakia",
+		"countryCode": "sk"
+	},
+	{
+		"countryName": "Germany",
+		"countryCode": "de"
+	},
+	{
+		"countryName": "Morocco",
+		"countryCode": "ma"
+	},
+	{
+		"countryName": "Slovenia",
+		"countryCode": "si"
+	}
+]
